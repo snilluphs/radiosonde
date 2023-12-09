@@ -7,7 +7,7 @@
 
 # script_download_radiosonde.m
 
-# shp_radiosonde_fileread_v2.m
+# script_radiosonde_fileread_v2.m
 
 # script_radiosonde_plots.m
 
